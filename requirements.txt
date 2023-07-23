@@ -1,4 +1,4 @@
-# checkov:skip=protobuff[BC_LIC_2]: ADD Licenfdfse 1
+# checkov:skip=fhdgsh[BC_LIC_2]: ADD Licenfdfse 1
 pandas
 scipy
 matplotlib

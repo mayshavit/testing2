@@ -1,4 +1,3 @@
-# checkov:skip=protobuf[BC_LIC_2]: ADD Licsdsenffgdfdfse 1
 pandas
 scipy
 matplotlib

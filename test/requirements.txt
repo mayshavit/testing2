@@ -1,4 +1,4 @@
-# checkov:skip=protobuf[BC_LIC_1]: testttsd
+# checkov:skip=protobuf[BC_LIC_2]: should be good!
 pandas
 scipy
 matplotlib

@@ -1,4 +1,4 @@
-# checkov:skip=protobuf[BC_LIC_1]: tesdftttsd
+# checkov:skip=protobuf[BC_LIC_1]: tesdftttsdfdf
 pandas
 scipy
 matplotlib
